@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f1a6495.css",
+    "main.js": "/static/js/main.6a791c59.js",
+    "static/js/3.0b699837.chunk.js": "/static/js/3.0b699837.chunk.js",
+    "static/media/profile.png": "/static/media/profile.d81068d5393a8fd88724.png",
+    "static/media/lacalle.png": "/static/media/lacalle.46e4f32c9b4d72a6fb3a.png",
+    "static/media/startup.png": "/static/media/startup.22dae5e61e55b93dab4b.png",
+    "static/media/lofo.png": "/static/media/lofo.3fa6c321cc9ec54fd49d.png",
+    "static/media/react-portfolio.png": "/static/media/react-portfolio.27ccc3c63b51c9484d56.png",
+    "static/media/veritru.png": "/static/media/veritru.7176315ff5f5b96d88d5.png",
+    "static/media/Tan_Mark_Resume.pdf": "/static/media/Tan_Mark_Resume.9240e8548ee148e31722.pdf",
+    "index.html": "/index.html",
+    "main.9f1a6495.css.map": "/static/css/main.9f1a6495.css.map",
+    "main.6a791c59.js.map": "/static/js/main.6a791c59.js.map",
+    "3.0b699837.chunk.js.map": "/static/js/3.0b699837.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f1a6495.css",
+    "static/js/main.6a791c59.js"
+  ]
+}
